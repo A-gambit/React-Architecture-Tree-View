@@ -1,0 +1,23 @@
+{
+  "name": "focal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@grammarly-npm/focal": "^0.4.365",
+    "@types/jest": "^19.2.0",
+    "@types/node": "^7.0.8",
+    "@types/react": "15.0.0",
+    "@types/react-dom": "0.14.20",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "1.1.6"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
